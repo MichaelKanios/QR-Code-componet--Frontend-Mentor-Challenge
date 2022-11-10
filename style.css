@@ -16,8 +16,8 @@ body{
 }
 
 .container{
-  margin:30px auto;
-  padding: 0 30px;
+  max-width: 360px;
+    margin: 0 auto;
 }
 .all{
   background-color: white;
